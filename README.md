@@ -1,5 +1,14 @@
-### Hi there 👋
+<h1>Hi, I'm Toju! 
 
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+  - [Active Directory Homelab](https://github.com/tpopo1)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="toritseju-popo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/toritseju-popo-7212341ab/
 <!--
 **tpopo1/tpopo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
