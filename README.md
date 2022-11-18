@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Azure Sentinel Homelab](https://github.com/tpopo1](https://github.com/tpopo1/Azure-Sentinel-Lab)
+  - [Azure Sentinel Homelab](https://github.com/tpopo1/Azure-Sentinel-Lab)
 
 <h2> 🤳 Connect with me:</h2>
 
