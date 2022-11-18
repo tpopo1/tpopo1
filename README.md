@@ -6,9 +6,11 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="toritseju-popo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Toritseju-Popo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Toritseju-Popo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 [linkedin]: https://www.linkedin.com/in/toritseju-popo-7212341ab/
+[twitter]: https://twitter.com/CybersecToju
 <!--
 **tpopo1/tpopo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
